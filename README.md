@@ -1,4 +1,4 @@
-# Boost
+# dxControl-Boost
 PID Boost controller for electronic wastegate actuators 
 
 The first Actuator targeted is those used by VAG group.
